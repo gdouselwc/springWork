@@ -1,8 +1,5 @@
 package com.beans.cycle;
 
-/**
- * Created by liangwenchang on 2018/7/19.
- */
 public class Car {
     private String brand;
 
